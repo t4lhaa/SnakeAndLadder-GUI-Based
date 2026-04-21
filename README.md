@@ -13,8 +13,6 @@ This project focuses on developing a GUI-based version of the classic **Snake an
   - Interface responsiveness  
   - Correctness of game logic  
 
----
-
 ## 2️⃣ Introduction
 
 ### 🔹 Background
@@ -29,8 +27,6 @@ Developing the game using **Qt** also helps reinforce GUI design concepts in a p
 - Build an intuitive graphical user interface using Qt  
 - Enable two to four player functionality with automatic turn handling  
 - Provide animations and dice roll functionality  
-
----
 
 ## 3️⃣ Project Description
 
@@ -47,14 +43,10 @@ Developing the game using **Qt** also helps reinforce GUI design concepts in a p
 - Advanced animations  
 - Sound effects  
 
----
-
 ### 🔹 Technical Overview
 - **Programming Language:** C++  
 - **Framework / IDE:** Qt Creator  
 - **Graphics:** Basic PNG images for board and player tokens  
-
----
 
 ## 4️⃣ Methodology
 
@@ -63,8 +55,6 @@ An **iterative development methodology** was followed with:
 - Regular testing  
 - Continuous integration  
 - Modular task division based on logic and UI components  
-
----
 
 ## 5️⃣ Project Implementation
 
@@ -76,8 +66,6 @@ The project follows the following class hierarchy:
 - **Board** – Maintains game map with snakes and ladders  
 
 The interface uses a **grid-based layout** for the board and control buttons for dice rolling.
-
----
 
 ### 🔹 Functionalities Developed
 - ✔ Dice rolling with animation  
