@@ -30,7 +30,7 @@ Developing the game using **Qt** also helps reinforce GUI design concepts in a p
 
 ## 3️⃣ Project Description
 
-### 🔹 Scope
+### 🔹 Project Scope
 
 **Included Features:**
 - Player movement  
